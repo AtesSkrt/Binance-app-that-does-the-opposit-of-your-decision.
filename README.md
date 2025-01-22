@@ -25,13 +25,13 @@ This app performs the opposite action of the selected button:
 Below are some screenshots showcasing the app:
 
 ### Login Screen
-![Login Screen](path/to/login_screen.png)
+![Login Screen](screenshots/Screenshot 2025-01-22 at 17.33.24.png)
 
 ### Main Dashboard
-![Main Dashboard](path/to/main_dashboard.png)
+![Main Dashboard](screenshots/Screenshot 2025-01-22 at 17.34.20.png)
 
 ### Trading Pair Search
-![Trading Pair Search](path/to/trading_pair_search.png)
+![Trading Pair Search](screenshots/Screenshot 2025-01-22 at 17.34.53.png)
 
 ## Installation
 ### Prerequisites
