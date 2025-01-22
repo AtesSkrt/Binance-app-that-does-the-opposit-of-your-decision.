@@ -28,10 +28,10 @@ Below are some screenshots showcasing the app:
 ![Login Screen](screenshots/login.png)
 
 ### Main Dashboard
-![Main Dashboard](screenshots/ss1.png)
+![Main Dashboard](screenshots/ss2.png)
 
 ### Trading Pair Search
-![Trading Pair Search](screenshots/ss2.png)
+![Trading Pair Search](screenshots/ss1.png)
 
 ## Installation
 ### Prerequisites
