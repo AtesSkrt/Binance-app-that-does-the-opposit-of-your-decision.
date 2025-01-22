@@ -1,6 +1,6 @@
 # Binance Buy-Sell App
 
-![Watch the YouTube Video](https://www.youtube.com/embed/YOUR_VIDEO_ID)
+![Watch the YouTube Video](https://www.youtube.com/embed/D07W888vT-c)
 
 ## Overview
 The Binance Buy-Sell App is a simple trading application built using Python and PyQt5. It interacts with the Binance Futures API, allowing users to:
@@ -69,7 +69,7 @@ pip install PyQt5 python-binance
 - Ensure you have sufficient balance in your Binance Futures wallet.
 
 ## Video Tutorial
-For a step-by-step guide, watch the tutorial on [YouTube](https://www.youtube.com/embed/YOUR_VIDEO_ID).
+For a step-by-step guide, watch the tutorial on [YouTube](https://www.youtube.com/embed/D07W888vT-c).
 
 ## License
 This project is licensed under the MIT License.
